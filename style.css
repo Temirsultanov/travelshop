@@ -289,7 +289,7 @@ form {
 }
 .information__location_map {
     width: 435px;
-    height: 195px;
+    /* height: 195px; */
     border-radius: var(--borderRadius);
 }
 .information__location_map img{
@@ -383,6 +383,7 @@ form {
     .information__wrapper {
         width: 100%;
     }
+    teme5tan
     .information__travelLinks {
         margin-bottom: 30px;
         flex-direction: column;
